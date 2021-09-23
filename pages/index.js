@@ -1,5 +1,4 @@
-// import { Typography, Button ,Input, IconButton} from "@material-ui/core";
-// import PhotoCamera from '@material-ui/icons/PhotoCamera';
+
 
 import styles from "../styles/Home.module.css";
 import Link from "next/link";
